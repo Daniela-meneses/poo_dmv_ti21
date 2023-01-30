@@ -9,7 +9,7 @@ suma = int(numero1) + int(numero2)
 print(suma)
 resta = int(numero1) - int(numero2)
 print(resta)
-multiplicacion = int(numero1) * int(numero2)
+multiplicacion = int(numero1) * int(numero2) / 2
 print(multiplicacion)
 division = int(numero1) / int(numero2)
 print(division)
