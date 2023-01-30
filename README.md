@@ -9,3 +9,4 @@
 |3.|Programa2.py| concatenacion usando forma|
 |4.|Programa3.py|operaciones aritmeticas|
 |5.|Programa4.py|acceso a las variables por posicion y por nombre|
+|6.|Programa5.py|operaciones basicas|
