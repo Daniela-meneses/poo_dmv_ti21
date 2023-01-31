@@ -11,3 +11,4 @@
 |5.|Programa4.py|acceso a las variables por posicion y por nombre|
 |6.|Programa5.py|operaciones basicas|
 |7.|Programa6.py|tarea area y altura de un triangulo|
+|8.|Programa7.py|Area y Permetro de un circulo y cuadrado|
