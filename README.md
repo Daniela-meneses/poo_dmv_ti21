@@ -13,6 +13,6 @@
 |7.|Programa6.py|tarea area y altura de un triangulo|
 |8.|Programa7.py|Area y Permetro de un circulo y cuadrado|
 |9.|Programa8.py|Realizar un programa en python que compare 2 numeros|
-|10.|Programa9.py||
-|10.|Programa10.py||
-|10.|Programa11.py||
+|10.|Programa9.py|realiza un programa que compare 2 numeros enteros e imprima el mayor de ellos , y si son iguales imprima none|
+|11.|Programa10.py|realiza un programa que compare 2 numeros enteros e imprima el mayor de ellos , y si son iguales imprima none|
+|12.|Programa11.py|realiza un programa que compare 2 numeros enteros e imprima el mayor de ellos , y si son iguales imprima none|

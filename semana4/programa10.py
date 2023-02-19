@@ -1,7 +1,7 @@
 """programa10
 Nombre: Daniela M,V
 Fecha: 9/02/23
-Descripcion:
+Descripcion: realiza un programa que compare 2 numeros enteros e imprima el mayor de ellos , y si son iguales imprima none
 """
 
 def mayor(numero1 , numero2):
